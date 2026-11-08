@@ -1,0 +1,57 @@
+[
+  {
+    "path": "evidence/remote/en-data-download.log",
+    "bytes": 61,
+    "sha256": "e84fea74a71ceef081546d0bdaadfc28fa8c2ffe21111ec3f57bf601357e9392"
+  },
+  {
+    "path": "evidence/remote/environment-py311-core.json",
+    "bytes": 534,
+    "sha256": "76376e9c8600660cf26041699106af62a196a1d44fef2063f56b7d29722f38d1"
+  },
+  {
+    "path": "evidence/remote/model-download.log",
+    "bytes": 784,
+    "sha256": "dd268db1fe2bb08121a2c26e1447970f1e1f7a3f80f752ff19df5404083366fc"
+  },
+  {
+    "path": "evidence/remote/p0-tests.log",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "evidence/remote/pip-py311-core.log",
+    "bytes": 145558,
+    "sha256": "d637156dbb67a86c75973d077565b70d22c7af5ce230e21e0ec6f9ae87bff7f0"
+  },
+  {
+    "path": "evidence/remote/remote-static-check.json",
+    "bytes": 587,
+    "sha256": "226cc92e1a48fcbc6a24de037f3e3fd558a7ef779d48bca2c4d7e0c5a38b45d8"
+  },
+  {
+    "path": "evidence/remote/requirements-py311-core.txt",
+    "bytes": 7610,
+    "sha256": "ad213513ff4174e9b8b45b980526fead2853f3daf662ed3485b8fc5c07b5c60f"
+  },
+  {
+    "path": "evidence/remote/static-check.json",
+    "bytes": 587,
+    "sha256": "226cc92e1a48fcbc6a24de037f3e3fd558a7ef779d48bca2c4d7e0c5a38b45d8"
+  },
+  {
+    "path": "evidence/remote/teacher-download.log",
+    "bytes": 49137,
+    "sha256": "93a3c79f259c70142ef2cac67158d60ffae62f4f325186eaa7093f9550dc15f3"
+  },
+  {
+    "path": "evidence/remote/teacher-manifest.json",
+    "bytes": 5855,
+    "sha256": "c8a0368a1268fa06ca2936887f5699b5a861e3538e63b14d42e7d5421e15daf0"
+  },
+  {
+    "path": "evidence/remote/zh-data-download.log",
+    "bytes": 35107,
+    "sha256": "95a7cd8034beacb65f1f397adddf75dfc96997ae6388aa07de997412fce6bcb7"
+  }
+]

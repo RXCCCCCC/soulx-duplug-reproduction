@@ -1,0 +1,17 @@
+{
+  "python": "3.11.11 | packaged by conda-forge | (main, Dec  5 2024, 14:17:24) [GCC 13.3.0]",
+  "cuda": "12.4",
+  "cuda_available": false,
+  "torch": "2.6.0+cu124",
+  "torchaudio": "2.6.0+cu124",
+  "transformers": "4.52.1",
+  "peft": "0.16.0",
+  "omegaconf": "2.3.0",
+  "pytorch_lightning": "2.5.2",
+  "funasr": "1.2.6",
+  "modelscope": "1.28.2",
+  "soundfile": "0.12.1",
+  "soxr": "0.5.0.post1",
+  "ffmpeg": "ffmpeg version 4.4.2-0ubuntu0.22.04.1 Copyright (c) 2000-2021 the FFmpeg developers",
+  "sox": "sox:      SoX v14.4.2"
+}\n

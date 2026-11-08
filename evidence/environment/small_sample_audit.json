@@ -1,0 +1,82 @@
+[
+  {
+    "file": "en_complete.jsonl",
+    "source_path": "Easy-Turn-Testset-en/complete.jsonl",
+    "bytes": 19192,
+    "sha256": "a080cfaa2942d1c0a7d305d4dfc413f8a8827a0df72df4d98a5221e020e6f3bd",
+    "zip_crc_verified": true
+  },
+  {
+    "file": "en_complete.wav",
+    "source_path": "Easy-Turn-Testset-en/complete/1.wav",
+    "bytes": 151058,
+    "sha256": "31ee8139240643be08e7ca5bc0be1bc3aa86189f4c0980ea4b0139814bdcbf0e",
+    "zip_crc_verified": true,
+    "audio": {
+      "sample_rate": 24000,
+      "channels": 1,
+      "sample_width": 2,
+      "frames": 75490,
+      "duration_seconds": 3.1454166666666667
+    }
+  },
+  {
+    "file": "en_incomplete.jsonl",
+    "source_path": "Easy-Turn-Testset-en/incomplete.jsonl",
+    "bytes": 12078,
+    "sha256": "0f2fb75731cb39d0add6fd0461174c8ca5bdfc02b37b769a81347daac4f330d2",
+    "zip_crc_verified": true
+  },
+  {
+    "file": "en_incomplete.wav",
+    "source_path": "Easy-Turn-Testset-en/incomplete/1.wav",
+    "bytes": 115436,
+    "sha256": "d956ec10e79801db76ff2ef3b2dede8b85b01908d26ff696f55021c302b3ad34",
+    "zip_crc_verified": true,
+    "audio": {
+      "sample_rate": 24000,
+      "channels": 1,
+      "sample_width": 2,
+      "frames": 57679,
+      "duration_seconds": 2.4032916666666666
+    }
+  },
+  {
+    "file": "zh_complete.wav",
+    "source_path": "testset/complete/real/complete_real_001.wav",
+    "bytes": 104236,
+    "sha256": "2d44a9103574c4477057cf78158716233ba4af2ef3fdef06bd2297221f061d7e",
+    "audio": {
+      "sample_rate": 16000,
+      "channels": 1,
+      "sample_width": 2,
+      "frames": 52096,
+      "duration_seconds": 3.256
+    }
+  },
+  {
+    "file": "zh_complete.list",
+    "source_path": "testset/complete/complete_test.list",
+    "bytes": 109096,
+    "sha256": "0b35356353848bf25200a2fc0f6d5e25f2a3e86a1baa5b0e1a6e4cfe86ee26a3"
+  },
+  {
+    "file": "zh_incomplete.wav",
+    "source_path": "testset/incomplete/real/incomplete_real_001.wav",
+    "bytes": 79404,
+    "sha256": "625e5ed716642e8fe155b7beb43e8f10c4b9e1a710df2d6abcfd66444a9fe372",
+    "audio": {
+      "sample_rate": 16000,
+      "channels": 1,
+      "sample_width": 2,
+      "frames": 39680,
+      "duration_seconds": 2.48
+    }
+  },
+  {
+    "file": "zh_incomplete.list",
+    "source_path": "testset/incomplete/incomplete_real_test.list",
+    "bytes": 113683,
+    "sha256": "01b2465c0bbeb9b434b955d15274f7f74a03bec18ba22f30981ba555b191e476"
+  }
+]

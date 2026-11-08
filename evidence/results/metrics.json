@@ -1,0 +1,34 @@
+{
+  "result_kind": "RECONSTRUCTED_PROTOCOL",
+  "paper_comparable": false,
+  "strict_protocol_match": false,
+  "full_dataset": true,
+  "run_fingerprint": "8ae5fdddab421c9238c27b866175aa8ad72e90539f139c6c5e195b40de8cf021",
+  "evaluation_scope": "FULL",
+  "metrics": {
+    "en_complete": {
+      "correct": 215,
+      "total": 318,
+      "accuracy": 0.6761006289308176
+    },
+    "en_incomplete": {
+      "correct": 247,
+      "total": 299,
+      "accuracy": 0.8260869565217391
+    },
+    "zh_complete": {
+      "correct": 184,
+      "total": 300,
+      "accuracy": 0.6133333333333333
+    },
+    "zh_incomplete": {
+      "correct": 205,
+      "total": 300,
+      "accuracy": 0.6833333333333333
+    },
+    "en_macro_accuracy": 0.7510937927262784,
+    "zh_macro_accuracy": 0.6483333333333333,
+    "undecided": 31,
+    "errors": 0
+  }
+}

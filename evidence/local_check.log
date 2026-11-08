@@ -1,0 +1,25 @@
+{
+  "status": "LOCAL_STATIC_PASS",
+  "manifest_samples": 1217,
+  "source_files_verified": 27,
+  "small_files_verified": 8,
+  "label_audit": {
+    "complete": {
+      "en_text_count": 318,
+      "zh_paths_and_text_labels_verified": 300,
+      "zh_state_field_values_not_used_as_labels": [
+        "0"
+      ]
+    },
+    "incomplete": {
+      "en_text_count": 299,
+      "zh_paths_and_text_labels_verified": 300,
+      "zh_state_field_values_not_used_as_labels": [
+        "0"
+      ]
+    }
+  },
+  "full_data_verified": false,
+  "model_files_verified": 0,
+  "model_inference": "NOT_RUN"
+}

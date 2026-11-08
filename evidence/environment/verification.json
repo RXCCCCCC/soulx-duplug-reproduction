@@ -1,0 +1,35 @@
+{
+  "result_kind": "STATIC_AND_SYNTHETIC_ONLY",
+  "checks": [
+    {
+      "check": "local_tests",
+      "returncode": 0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "check": "local_check",
+      "returncode": 0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "check": "setup_plan",
+      "returncode": 0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "check": "run_gate",
+      "returncode": 3,
+      "expected": 3,
+      "passed": true
+    },
+    {
+      "check": "execute_gate",
+      "returncode": 2,
+      "expected": 2,
+      "passed": true
+    }
+  ]
+}

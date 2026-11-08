@@ -1,0 +1,191 @@
+[
+  {
+    "file": "github_branches.json",
+    "url": "https://api.github.com/repos/Soul-AILab/SoulX-Duplug/branches?per_page=100",
+    "bytes": 633,
+    "sha256": "b42220b85ac3b02596d66029602d274eb8db18f324b4b5d6d15487dde906564a",
+    "status": "ok"
+  },
+  {
+    "file": "github_issues.json",
+    "url": "https://api.github.com/repos/Soul-AILab/SoulX-Duplug/issues?state=all&per_page=100",
+    "bytes": 57493,
+    "sha256": "935992e366ba8e643b8b191914ae9ae6db118edb32d3d7497278df96508eeae3",
+    "status": "ok"
+  },
+  {
+    "file": "dialogue_tree.json",
+    "url": "https://api.github.com/repos/Soul-AILab/SoulX-Duplug/git/trees/66a9f74ca39d30984eb87fc4c029fadc797b6e34?recursive=1",
+    "bytes": 179276,
+    "sha256": "7415832d0d2931a04f84463e127aadd84dc6bb1ff21f614346d3e8a5efe03385",
+    "status": "ok"
+  },
+  {
+    "file": "training_tree.json",
+    "url": "https://api.github.com/repos/Soul-AILab/SoulX-Duplug/git/trees/928b06508ed2de1344208d06fb1f6fb2ebfb1df5?recursive=1",
+    "bytes": 14324,
+    "sha256": "0bbbb86a9719001af0062409105aefe3b0ec7588640d2c48bd076ce740901dc6",
+    "status": "ok"
+  },
+  {
+    "file": "easy_turn_tree.json",
+    "url": "https://api.github.com/repos/ASLP-lab/Easy-Turn/git/trees/main?recursive=1",
+    "bytes": 200569,
+    "sha256": "57259f67eacb17d094d3067d095abe7bb96185b277b9b57afe20132f6fa7a60e",
+    "status": "ok"
+  },
+  {
+    "file": "model_info.json",
+    "url": "https://huggingface.co/api/models/Soul-AILab/SoulX-Duplug-0.6B/revision/61701c4ab8193cc1ee2220d3848872ac6c720142?blobs=true",
+    "bytes": 3972,
+    "sha256": "c994f1bb5044632e288fbb652abf90542ff433c35e8070245c250a638d7ce77f",
+    "status": "ok"
+  },
+  {
+    "file": "en_info.json",
+    "url": "https://huggingface.co/api/datasets/Soul-AILab/SoulX-Duplug-Eval/revision/f6e50e8f07f3d33d8b2e77b14df986d14c817ef2?blobs=true",
+    "bytes": 2099,
+    "sha256": "4a31096f0b865fe97830202b83a3520048d37b3b93f9169984f31abefabcc847",
+    "status": "ok"
+  },
+  {
+    "file": "zh_info.json",
+    "url": "https://huggingface.co/api/datasets/ASLP-lab/Easy-Turn-Testset/revision/5812651dbab429b9a4fab293de7127bfb9a56650?blobs=true",
+    "bytes": 199621,
+    "sha256": "e53728c5bf507af4e753ef124268521b0a742b497614f8fe7a12c89b7713d6f0",
+    "status": "ok"
+  },
+  {
+    "file": "en_README.md",
+    "url": "https://huggingface.co/datasets/Soul-AILab/SoulX-Duplug-Eval/raw/f6e50e8f07f3d33d8b2e77b14df986d14c817ef2/README.md",
+    "bytes": 3952,
+    "sha256": "568b3c858b08ffc4a55e0f76bfe7e699f726d3f8e193f74cdfad2cf6408ff4f9",
+    "status": "ok"
+  },
+  {
+    "file": "zh_README.md",
+    "url": "https://huggingface.co/datasets/ASLP-lab/Easy-Turn-Testset/raw/5812651dbab429b9a4fab293de7127bfb9a56650/README.md",
+    "bytes": 2467,
+    "sha256": "a01fd8a74f1550c46f86c9ce1effeb90723b321a566ccd869f9648788a9027f5",
+    "status": "ok"
+  },
+  {
+    "file": "paper_v1.html",
+    "url": "https://arxiv.org/html/2603.14877v1",
+    "bytes": 193229,
+    "sha256": "27b8c7133c33ab028dfade27df3c6ff4695e3abe4be2cb323f746475f241688a",
+    "status": "ok"
+  },
+  {
+    "file": "training_inference.py",
+    "url": "https://raw.githubusercontent.com/Soul-AILab/SoulX-Duplug/928b06508ed2de1344208d06fb1f6fb2ebfb1df5/scripts/duplex_inference.py",
+    "bytes": 32288,
+    "sha256": "1558fffafdf1b0a5ea521a8cfc3feb3fce0c57ac9e34bf2795348c6f58c52d73",
+    "status": "ok"
+  },
+  {
+    "file": "training_infer_config.yaml",
+    "url": "https://raw.githubusercontent.com/Soul-AILab/SoulX-Duplug/928b06508ed2de1344208d06fb1f6fb2ebfb1df5/config/infer_config.yaml",
+    "bytes": 617,
+    "sha256": "714d91f269db58a72081081aa8505e771112d0ce82b1cc9b7b3890402651b57f",
+    "status": "ok"
+  },
+  {
+    "file": "dialogue_config.yaml",
+    "url": "https://raw.githubusercontent.com/Soul-AILab/SoulX-Duplug/66a9f74ca39d30984eb87fc4c029fadc797b6e34/config/config.yaml",
+    "bytes": 654,
+    "sha256": "95a162eb9896c763b47a7fefd6a9e9b6b67809bc56464a4c5b7958a01b32249d",
+    "status": "ok"
+  },
+  {
+    "file": "easy_turn_README.md",
+    "url": "https://raw.githubusercontent.com/ASLP-lab/Easy-Turn/fe175eaa8442c9a0834acf29f8640ee74c2aceca/README.md",
+    "bytes": 9453,
+    "sha256": "7b3d10fabd5a361e0148ebf4d8c0138117691ccad4a15f3a735ce7515a5a131a",
+    "status": "ok"
+  },
+  {
+    "file": "model_Qwen_config.json",
+    "url": "https://huggingface.co/Soul-AILab/SoulX-Duplug-0.6B/raw/61701c4ab8193cc1ee2220d3848872ac6c720142/Qwen3-0.6B-expand_vocab_v2/config.json",
+    "bytes": 726,
+    "sha256": "4a7413c54a89fbdae9d48a4c67b4e5bc3cee78cbcb316cb031f57fc21d15d229",
+    "status": "ok"
+  },
+  {
+    "file": "dialogue_eval_README.md",
+    "url": "https://raw.githubusercontent.com/Soul-AILab/SoulX-Duplug/66a9f74ca39d30984eb87fc4c029fadc797b6e34/dialogue_system/eval/README.md",
+    "bytes": 8097,
+    "sha256": "2f8934582db42fc1e93101cdb6ebb3ea6b3a578c681db4debb3cdc9c72bf8521",
+    "status": "ok"
+  },
+  {
+    "file": "dialogue_README.md",
+    "url": "https://raw.githubusercontent.com/Soul-AILab/SoulX-Duplug/66a9f74ca39d30984eb87fc4c029fadc797b6e34/dialogue_system/README.md",
+    "bytes": 3530,
+    "sha256": "bb21a7ba718bdc1b471c5a7802d76828d01c09370cb396a743d1e8ba1e43c7b4",
+    "status": "ok"
+  },
+  {
+    "file": "dialogue_eval_evaluation_README.md",
+    "url": "https://raw.githubusercontent.com/Soul-AILab/SoulX-Duplug/66a9f74ca39d30984eb87fc4c029fadc797b6e34/dialogue_system/eval/evaluation/README.md",
+    "bytes": 4029,
+    "sha256": "33d637853a7af2d06b4c3d2ce87a29fbae84182fe43faf1d211d629d7ef6140d",
+    "status": "ok"
+  },
+  {
+    "file": "issue_2_comments.json",
+    "url": "https://api.github.com/repos/Soul-AILab/SoulX-Duplug/issues/2/comments",
+    "bytes": 3527,
+    "sha256": "b0a0aff6a33d48cdb8c12a6f6aeb2b0f2346c2f7be0ad475a66e02b74d8c7acc",
+    "status": "ok"
+  },
+  {
+    "file": "issue_4_comments.json",
+    "url": "https://api.github.com/repos/Soul-AILab/SoulX-Duplug/issues/4/comments",
+    "bytes": 3546,
+    "sha256": "ae94a4429f6bfadee4f83a90e9c80daa85c9223bc7cac4b17464c996b8297ba7",
+    "status": "ok"
+  },
+  {
+    "file": "issue_6_comments.json",
+    "url": "https://api.github.com/repos/Soul-AILab/SoulX-Duplug/issues/6/comments",
+    "bytes": 1642,
+    "sha256": "de9baaa7ea0f5cf72e826fb0c42f8f9d9a4a49efeae6d0334fa008a0b4bf8e8d",
+    "status": "ok"
+  },
+  {
+    "file": "issue_9_comments.json",
+    "url": "https://api.github.com/repos/Soul-AILab/SoulX-Duplug/issues/9/comments",
+    "bytes": 12135,
+    "sha256": "1252bc68ccbeb6dab061d8208f3f6829fde5f43b3c907ddbc4726bc88201d86c",
+    "status": "ok"
+  },
+  {
+    "file": "issue_11_comments.json",
+    "url": "https://api.github.com/repos/Soul-AILab/SoulX-Duplug/issues/11/comments",
+    "bytes": 2519,
+    "sha256": "be32460a9ffd0fd4d2d4463e82a4d4c5fddb7ba146a74508c865dd3d06652560",
+    "status": "ok"
+  },
+  {
+    "file": "issue_12_comments.json",
+    "url": "https://api.github.com/repos/Soul-AILab/SoulX-Duplug/issues/12/comments",
+    "bytes": 14378,
+    "sha256": "4d6a45e0a1f3dd8de6728370fb001a7492244a69523fad2ce20ca89543c46d4b",
+    "status": "ok"
+  },
+  {
+    "file": "issue_14_comments.json",
+    "url": "https://api.github.com/repos/Soul-AILab/SoulX-Duplug/issues/14/comments",
+    "bytes": 2076,
+    "sha256": "fa1b263d1a5486546204acaa3b1ba54282f40123915384b4c3a18acf876dd84e",
+    "status": "ok"
+  },
+  {
+    "file": "issue_16_comments.json",
+    "url": "https://api.github.com/repos/Soul-AILab/SoulX-Duplug/issues/16/comments",
+    "bytes": 15498,
+    "sha256": "d47b93e7ee576ddcffba3e75cbb5b2266aa658706f17a467c6a11bea1d484a72",
+    "status": "ok"
+  }
+]

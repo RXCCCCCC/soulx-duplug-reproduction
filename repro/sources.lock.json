@@ -1,0 +1,190 @@
+{
+  "code": {
+    "repository": "Soul-AILab/SoulX-Duplug",
+    "commit": "a0b9063843df69619b087b95b74597b2176910b8"
+  },
+  "model": {
+    "repository": "Soul-AILab/SoulX-Duplug-0.6B",
+    "revision": "61701c4ab8193cc1ee2220d3848872ac6c720142",
+    "files": [
+      {
+        "path": ".gitattributes",
+        "bytes": 1655,
+        "sha256": null,
+        "git_blob_id": "6301cd6904903a66e18c2f6c59c8afb2276e55be"
+      },
+      {
+        "path": "Qwen3-0.6B-expand_vocab_v2/added_tokens.json",
+        "bytes": 1494656,
+        "sha256": null,
+        "git_blob_id": "fe614b74ba38c4c992ad4d08d8c688cea7f085e0"
+      },
+      {
+        "path": "Qwen3-0.6B-expand_vocab_v2/chat_template.jinja",
+        "bytes": 4168,
+        "sha256": null,
+        "git_blob_id": "01be9b307daa2d425f7c168c9fb145a286e0afb4"
+      },
+      {
+        "path": "Qwen3-0.6B-expand_vocab_v2/config.json",
+        "bytes": 726,
+        "sha256": null,
+        "git_blob_id": "106cd6ac74d295bf52a8ef3177940e63d1a6f8a4"
+      },
+      {
+        "path": "Qwen3-0.6B-expand_vocab_v2/config_record.yaml",
+        "bytes": 172,
+        "sha256": null,
+        "git_blob_id": "4884ded7f4a228f87c8d2eb432ac428362a84ee1"
+      },
+      {
+        "path": "Qwen3-0.6B-expand_vocab_v2/generation_config.json",
+        "bytes": 214,
+        "sha256": null,
+        "git_blob_id": "bd2fdfd243eed9a1cf0d1295effe4c31f82dbac6"
+      },
+      {
+        "path": "Qwen3-0.6B-expand_vocab_v2/merges.txt",
+        "bytes": 1671853,
+        "sha256": null,
+        "git_blob_id": "31349551d90c7606f325fe0f11bbb8bd5fa0d7c7"
+      },
+      {
+        "path": "Qwen3-0.6B-expand_vocab_v2/model.safetensors",
+        "bytes": 2384234968,
+        "sha256": "82f718371044abd7d05e4de2dbfd766938eb9d07a0c7152e8e4bb20cab53b6ec",
+        "git_blob_id": "9d35d8db7bb2360167468f772929bc3ad113cf52"
+      },
+      {
+        "path": "Qwen3-0.6B-expand_vocab_v2/special_tokens_map.json",
+        "bytes": 613,
+        "sha256": null,
+        "git_blob_id": "ac23c0aaa2434523c494330aeb79c58395378103"
+      },
+      {
+        "path": "Qwen3-0.6B-expand_vocab_v2/tokenizer.json",
+        "bytes": 21375814,
+        "sha256": "9188dc1b4ec9935bbc52b70fd43e7e39718e44282b937055918e58ff5234e975",
+        "git_blob_id": "5ee21327f02a9ff4a9007845ed5379d57b6fceb3"
+      },
+      {
+        "path": "Qwen3-0.6B-expand_vocab_v2/tokenizer_config.json",
+        "bytes": 9439594,
+        "sha256": null,
+        "git_blob_id": "78a871a3d17c34501dcb56e8b28338c0e5bf4be7"
+      },
+      {
+        "path": "Qwen3-0.6B-expand_vocab_v2/vocab.json",
+        "bytes": 2776833,
+        "sha256": null,
+        "git_blob_id": "4783fe10ac3adce15ac8f358ef5462739852c569"
+      },
+      {
+        "path": "README.md",
+        "bytes": 6555,
+        "sha256": null,
+        "git_blob_id": "0aaf8d2065196146bacd52bc8fa982a1d7264993"
+      },
+      {
+        "path": "SoulX-Duplug-logo.png",
+        "bytes": 763847,
+        "sha256": "5ae357ebc267373d75560f127817d8e7e381215ac2b6d70663c7ff98de6bfe58",
+        "git_blob_id": "262b7a7ff1ea8552da4bf7d1a8d8b0dc2d8855a4"
+      },
+      {
+        "path": "SoulX-Duplug/SoulX-Duplug-0.6B-Bilingual.pth",
+        "bytes": 3896904668,
+        "sha256": "b0703dea0b1dbb1cd51e6e7b6514c60907ea4d4b6752cecc3f71cb6445650dbe",
+        "git_blob_id": "2ee1aafb8179d4a9895ca6447cf9c032726667f1"
+      },
+      {
+        "path": "config.yaml",
+        "bytes": 246,
+        "sha256": null,
+        "git_blob_id": "5c64fd24dce154988bcc82b2559eddb15d85130a"
+      },
+      {
+        "path": "glm-4-voice-tokenizer/.msc",
+        "bytes": 440,
+        "sha256": null,
+        "git_blob_id": "8c64f1090f8e476b759170d4d7e9f2456d6b98a7"
+      },
+      {
+        "path": "glm-4-voice-tokenizer/.mv",
+        "bytes": 36,
+        "sha256": null,
+        "git_blob_id": "7b7eff6392cf7d7571cfea60ce2d89dcdad0cb60"
+      },
+      {
+        "path": "glm-4-voice-tokenizer/LICENSE",
+        "bytes": 6490,
+        "sha256": null,
+        "git_blob_id": "a6bb941bd9d7c6f6a9ca745499971af703de33dd"
+      },
+      {
+        "path": "glm-4-voice-tokenizer/README.md",
+        "bytes": 1296,
+        "sha256": null,
+        "git_blob_id": "920a07de4547a73d79e71376a4271ec9be4a0e91"
+      },
+      {
+        "path": "glm-4-voice-tokenizer/config.json",
+        "bytes": 1771,
+        "sha256": null,
+        "git_blob_id": "dae8c391b182032565feed819b083320eca8ab7f"
+      },
+      {
+        "path": "glm-4-voice-tokenizer/configuration.json",
+        "bytes": 57,
+        "sha256": null,
+        "git_blob_id": "e47f15e80c5136fd7cbd89bc6565c94fa1bbd29a"
+      },
+      {
+        "path": "glm-4-voice-tokenizer/model.safetensors",
+        "bytes": 1458374480,
+        "sha256": "2800bd503f52b51e45f0c53cfd5c31dcfe8ef7f13d22b396aa3d53e0280dd1e4",
+        "git_blob_id": "defda19da829f14713b1b4c1fa537745c6bdecfd"
+      },
+      {
+        "path": "glm-4-voice-tokenizer/preprocessor_config.json",
+        "bytes": 340,
+        "sha256": null,
+        "git_blob_id": "931c77a740890c46365c7ae0c9d350ba3cca908f"
+      }
+    ]
+  },
+  "en": {
+    "repository": "Soul-AILab/SoulX-Duplug-Eval",
+    "revision": "f6e50e8f07f3d33d8b2e77b14df986d14c817ef2",
+    "archive": {
+      "rfilename": "Easy-Turn-Testset-en.zip",
+      "blobId": "6c9c9c1e91d3c665109fece8d1f61996810d165a",
+      "size": 56893309,
+      "lfs": {
+        "sha256": "6c045b9543c6f6f5188a5134923b50f96705c609a2c80b3582aafedeb9907387",
+        "size": 56893309,
+        "pointerSize": 133
+      }
+    }
+  },
+  "zh": {
+    "repository": "ASLP-lab/Easy-Turn-Testset",
+    "revision": "5812651dbab429b9a4fab293de7127bfb9a56650"
+  },
+  "teacher_models": {
+    "zh": {
+      "id": "iic/speech_paraformer-large-vad-punc_asr_nat-zh-cn-16k-common-vocab8404-pytorch",
+      "requested_revision": "v2.0.4",
+      "resolved_commit": "v2.0.4",
+      "provider": "ModelScope",
+      "local_path": "/root/rivermind-data/teachers/paraformer-v2.0.4"
+    },
+    "en": {
+      "id": "iic/SenseVoiceSmall",
+      "resolved_commit": "master@1781955652",
+      "provider": "ModelScope",
+      "local_path": "/root/rivermind-data/teachers/sensevoice-master"
+    }
+  },
+  "teacher_status": "P1 downloaded and hashed; SenseVoice master is mutable upstream revision, creation timestamp recorded; runtime remains RECONSTRUCTED_PROTOCOL"
+}

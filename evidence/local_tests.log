@@ -1,0 +1,30 @@
+test_csv_export_and_overwrite_protection (test_repro.ScoreTests.test_csv_export_and_overwrite_protection) ... ok
+test_duplicate_manifest_is_rejected (test_repro.ScoreTests.test_duplicate_manifest_is_rejected) ... ok
+test_duplicate_prediction_is_rejected (test_repro.ScoreTests.test_duplicate_prediction_is_rejected) ... ok
+test_empty_or_missing_class_is_rejected (test_repro.ScoreTests.test_empty_or_missing_class_is_rejected) ... ok
+test_frozen_counts_are_enforced (test_repro.ScoreTests.test_frozen_counts_are_enforced) ... ok
+test_gold_cannot_be_relabelled (test_repro.ScoreTests.test_gold_cannot_be_relabelled) ... ok
+test_macro_uses_class_means_and_keeps_errors_in_denominator (test_repro.ScoreTests.test_macro_uses_class_means_and_keeps_errors_in_denominator) ... ok
+test_missing_prediction_is_rejected (test_repro.ScoreTests.test_missing_prediction_is_rejected) ... ok
+test_model_size_sha256_and_missing_file_are_checked (test_repro.ScoreTests.test_model_size_sha256_and_missing_file_are_checked) ... ok
+test_real_evaluate_is_blocked (test_repro.ScoreTests.test_real_evaluate_is_blocked) ... ok
+test_run_is_blocked_before_importing_model (test_repro.ScoreTests.test_run_is_blocked_before_importing_model) ... ok
+test_service_idle_speak_cannot_be_scored_as_binary (test_repro.ScoreTests.test_service_idle_speak_cannot_be_scored_as_binary) ... ok
+test_small_model_metadata_git_blob_is_checked (test_repro.ScoreTests.test_small_model_metadata_git_blob_is_checked) ... ok
+test_unknown_prediction_is_rejected (test_repro.ScoreTests.test_unknown_prediction_is_rejected) ... ok
+test_changed_protocol_cannot_resume (test_runner.RunnerTests.test_changed_protocol_cannot_resume) ... ok
+test_contract_and_trace_recheck_without_gpu (test_runner.RunnerTests.test_contract_and_trace_recheck_without_gpu) ... ok
+test_corrupt_trace_prevents_resume (test_runner.RunnerTests.test_corrupt_trace_prevents_resume) ... ok
+test_exact_tail_then_partial_chunk_padding (test_runner.RunnerTests.test_exact_tail_then_partial_chunk_padding) ... ok
+test_first_endpoint_ignores_service_state_and_later_conflict (test_runner.RunnerTests.test_first_endpoint_ignores_service_state_and_later_conflict) ... ok
+test_observation_preserves_model_return_and_restores_method (test_runner.RunnerTests.test_observation_preserves_model_return_and_restores_method) ... ok
+test_p2_gate_runs_before_gpu_imports (test_runner.RunnerTests.test_p2_gate_runs_before_gpu_imports) ... ok
+test_per_sample_reset_seed_and_full_resume_no_duplicates (test_runner.RunnerTests.test_per_sample_reset_seed_and_full_resume_no_duplicates) ... ok
+test_real_verification_rejects_mock_provenance (test_runner.RunnerTests.test_real_verification_rejects_mock_provenance) ... ok
+test_sample_error_is_saved_then_run_stops (test_runner.RunnerTests.test_sample_error_is_saved_then_run_stops) ... ok
+test_torn_ledger_is_preserved (test_runner.RunnerTests.test_torn_ledger_is_preserved) ... ok
+
+----------------------------------------------------------------------
+Ran 25 tests in 0.168s
+
+OK
